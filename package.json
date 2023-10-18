@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "pure-functions",
+  "description": "Instructions for this sprint can be found at: https://l2c.northcoders.com/courses/fun/purer-functions",
+  "version": "1.0.0",
+  "main": "pure.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
